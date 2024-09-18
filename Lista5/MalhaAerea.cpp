@@ -80,7 +80,7 @@ int main() {
         }
     }
 
-    cout << minCost;
+    cout << minCost << endl;
 
     return 0;
 }
